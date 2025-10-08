@@ -1,0 +1,120 @@
+title,audience_certified,audience_score,audience_sentiment,critics_certified,critics_score,critics_sentiment
+One Battle After Another,true,85%,positive,true,95%,positive
+The Conjuring: Last Rites,false,78%,positive,false,59%,negative
+The Strangers: Chapter 2,false,55%,negative,false,15%,negative
+HIM,false,58%,negative,false,31%,negative
+The Long Walk,false,85%,positive,true,88%,positive
+Downton Abbey: The Grand Finale,true,96%,positive,true,91%,positive
+A Big Bold Beautiful Journey,false,59%,negative,false,38%,negative
+Eleanor the Great,false,93%,positive,false,67%,positive
+Weapons,true,85%,positive,true,93%,positive
+Freakier Friday,true,92%,positive,true,74%,positive
+The Bad Guys 2,true,94%,positive,true,88%,positive
+The Fantastic Four: First Steps,true,91%,positive,true,86%,positive
+Toy Story,false,92%,positive,true,100%,positive
+Caught Stealing,false,83%,positive,true,83%,positive
+Gabby's Dollhouse: The Movie,true,95%,positive,false,82%,positive
+Hamilton,true,99%,positive,true,98%,positive
+The History of Sound,false,89%,positive,false,69%,positive
+The Roses,false,79%,positive,false,66%,positive
+The Baltimorons,false,83%,positive,true,92%,positive
+731,false,49%,negative,false,,
+Apollo 13,false,87%,positive,true,94%,positive
+Superman,true,90%,positive,true,83%,positive
+F1 The Movie,true,97%,positive,true,82%,positive
+The Ugly,,,,false,55%,negative
+Twinless,false,94%,positive,true,97%,positive
+Plainclothes,,,,true,83%,positive
+A Little Prayer,false,93%,positive,true,93%,positive
+The Summer Book,,,,false,79%,positive
+Splitsville,false,84%,positive,true,85%,positive
+Riefenstahl,,,,true,97%,positive
+Lilo & Stitch,true,92%,positive,false,72%,positive
+Yi Yi,false,91%,positive,true,97%,positive
+Four Nights of a Dreamer,false,78%,positive,false,91%,positive
+Naked Ambition,,,,false,,
+A Savage Art: The Life & Cartoons of Pat Oliphant,,,,false,,
+"It's Never Over, Jeff Buckley",false,98%,positive,true,98%,positive
+Lurker,false,84%,positive,true,95%,positive
+Night of the Juggler,,,,false,93%,positive
+Souleymane's Story,,,,true,100%,positive
+My Sunshine,,,,false,87%,positive
+Folktales,,,,true,83%,positive
+In the Mood for Love,false,94%,positive,true,92%,positive
+Dogtooth,false,76%,positive,true,93%,positive
+Monk in Pieces,,,,false,91%,positive
+In the Fire of War,,,,false,,
+Marlee Matlin: Not Alone Anymore,,,,true,98%,positive
+Seeds,,,,false,100%,positive
+Killer of Sheep,false,84%,positive,true,98%,positive
+Pariah,false,50%,negative,false,43%,negative
+The Smashing Machine,false,77%,positive,true,73%,positive
+Good Boy,false,83%,positive,true,91%,positive
+TRON: Ares,,,,false,57%,negative
+Anemone,false,60%,positive,false,55%,negative
+Bone Lake,false,59%,negative,false,82%,positive
+Roofman,,,,false,81%,positive
+Kiss of the Spider Woman,,,,false,82%,positive
+Taylor Swift | The Official Release Party of a Showgirl,true,95%,positive,false,64%,positive
+Avatar: The Way of Water,true,92%,positive,true,76%,positive
+A HOUSE OF DYNAMITE,,,,true,83%,positive
+After the Hunt,,,,false,51%,negative
+Kantara: A Legend - Chapter 1,false,92%,positive,false,82%,positive
+Shell,,,,false,61%,positive
+Urchin,,,,true,98%,positive
+Casper,false,51%,negative,false,59%,negative
+Killing Faith,,,,false,85%,positive
+Orwell: 2 + 2 = 5,,,,true,86%,positive
+Soul on Fire,,,,false,,
+Scared Shitless,,,,false,93%,positive
+Coyotes,,,,false,66%,positive
+Are We Good?,,,,false,93%,positive
+Satisfied,,,,false,100%,positive
+Scurry,,,,false,,
+She Loved Blossoms More,,,,false,89%,positive
+Perfect Blue,false,89%,positive,true,84%,positive
+Beast of War,,,,false,92%,positive
+The Devil's Rejects,false,78%,positive,false,55%,negative
+The Librarians,,,,false,93%,positive
+The Alabama Solution,,,,false,100%,positive
+Fairyland,,,,false,97%,positive
+Mr. K,,,,false,82%,positive
+The Road Between Us: The Ultimate Rescue,,,,false,79%,positive
+Broken Mary: The Kevin Matthews Story,,,,false,,
+The Ice Tower,,,,false,78%,positive
+Sunny Sanskari Ki Tulsi Kumari,,,,false,27%,negative
+One Big Happy Family,,,,false,,
+The Partisan,,,,false,,
+Nikka Zaildar 4,,,,false,,
+Ju Dou,false,88%,positive,false,100%,positive
+Deathstalker,,,,false,,
+"Edgar Allan Poe's ""The Oval Portrait""",,,,false,,
+Dora: Magic Mermaid Adventures,,,,false,,
+Pistachio Wars,,,,false,,
+A Writer's Odyssey 2,,,,false,,
+Hari Bahadur Ko Jutta,,,,false,,
+Peas and Carrots,,,,false,,
+Idly Kadai,,,,false,,
+The French Italian,,,,false,60%,positive
+100 Meters,,,,false,,
+Re-Election,,,,false,,
+UFC 320: Ankalaev vs. Pereira 2,,,,false,,
+Soul of a Nation,,,,false,,
+Roads of Fire,,,,false,,
+The Art Whisperer,,,,false,,
+"No! YOU'RE WRONG, or: Spooky Action at a Distance",,,,false,,
+Trade Secret,,,,false,,
+Israel Palestine on Swedish TV 1958-1989,,,,false,,
+In Waves and War,,,,false,,
+American Skyjacker,,,,false,,
+Among Neighbors,,,,false,,
+Trains,,,,false,,
+Hello Beautiful,,,,false,70%,positive
+Viva Verdi!,,,,false,,
+Thrifters,,,,false,,
+Fallaway,,,,false,,
+Norita,,,,false,,
+The Bride,,,,false,,
+Darling,false,70%,positive,false,73%,positive
+The Dating Game,,,,false,68%,positive
+The Roughneck,,,,false,,
